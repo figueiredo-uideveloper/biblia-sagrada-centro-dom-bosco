@@ -1,6 +1,6 @@
 {
   window.addEventListener("load", () => {
-    const endDate = new Date("2026-05-11T23:59:59");
+    const endDate = new Date("2026-06-11T23:59:59");
 
     function updateCountdown() {
       const now = new Date().getTime();
